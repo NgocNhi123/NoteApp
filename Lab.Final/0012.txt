@@ -1,0 +1,6 @@
+Hello
+Uni
+Project - CS202 - Note
+Made by: Ly Ngoc Nhi
+This project's using SDL2
+Using up/down arrow to move between pages
